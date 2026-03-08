@@ -1,0 +1,6 @@
+geopandas
+bokeh
+pandas
+numpy
+shapely
+matplotlib
