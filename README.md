@@ -45,11 +45,10 @@ Jupyter Notebook
 
 ## Project Workflow
 
-(ensure correctness)
 1. Import Spatial datasets
 2. Generate distance to park
 3. Identify underserved areas
-4. Map Accessinility results
+4. Map Accessibility results
 
 ---
 
@@ -64,7 +63,7 @@ Key Findings include:
 
 ## Final Map
 
-(Input map)
+
 
 ---
 
