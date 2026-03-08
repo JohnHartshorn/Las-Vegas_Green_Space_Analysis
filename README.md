@@ -17,7 +17,9 @@ Which areas of Las Vegas have the lowest access to green space?
 
 ## Data Sources
 
-(Fill in data sources here)
+U.S. Census Bureau
+
+Clark County
 
 ---
 
@@ -25,9 +27,8 @@ Which areas of Las Vegas have the lowest access to green space?
 
 Spatial analysis techniques used:
 
-(Check if all correct)
-- Euclidean distance analysis
-- buffer analysis
+- Nearest Distance Formula
+- Reproject
 - spatial joins
 - raster processing
 
