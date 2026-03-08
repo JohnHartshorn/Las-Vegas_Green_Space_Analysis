@@ -63,7 +63,7 @@ Key Findings include:
 
 ## Final Map
 
-
+![Green Space Accessibility Map](maps/
 
 ---
 
