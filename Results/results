@@ -1,1 +1,10 @@
-datasets
+The results in the new datasets are summarized by the nearest numerical distance from a zip-code 
+boundary to a park boundary in meters as ‘nearest_distance_m’. The visual results are a dynamic 
+map that provides the zip-code and the numerical value for the nearest distance to a park 
+boundary and the name of that park with the use of the hover tool. The visual results on 
+the map is a choropleth map ranging from dark green as lower values and light green for the
+higher values for distance to nearest park. More visual results would be the scale bar along 
+the right hand side with values in meters to help navigate the user for the values being 
+displayed on the map. The analysis of the visualizations show a concentration of zip-codes 
+in the North Las Vegas region that has higher distances to the nearest park suggesting those
+zip-codes would benefit from some green space and park attention from policy makers.
